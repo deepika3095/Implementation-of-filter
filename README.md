@@ -33,8 +33,8 @@ End the program.
 </br> 
 
 ## Program:
-### Developed By : T.Roshini
-### Register Number: 212223230175
+### Developed By : DEEPIKA R
+### Register Number: 212223230038
 </br>
 
 ### 1. Smoothing Filters
@@ -112,36 +112,25 @@ plt.show()
 
 
 i) Using Averaging Filter
-
-<img width="808" height="592" alt="image" src="https://github.com/user-attachments/assets/cbdaf421-1a05-47de-9ab9-e09be16599e5" />
+<img width="807" height="255" alt="image" src="https://github.com/user-attachments/assets/f9a6744d-3aa8-406b-a346-9982ad289b41" />
 
 ii)Using Weighted Averaging Filter
-
-<img width="322" height="472" alt="image" src="https://github.com/user-attachments/assets/e7cd00c9-1732-4591-b697-99a9ed5755f2" />
-
+<img width="578" height="375" alt="image" src="https://github.com/user-attachments/assets/fad0e445-a29a-4bfe-8d56-0704371e4753" />
 
 iii)Using Gaussian Filter
-
-<img width="315" height="467" alt="image" src="https://github.com/user-attachments/assets/3ee47109-44e1-4caa-9743-fcfb81da1a2a" />
-
+<img width="570" height="365" alt="image" src="https://github.com/user-attachments/assets/92e47ec2-6d91-478a-ac8f-cfda3caa7aed" />
 
 iv) Using Median Filter
-
-<img width="672" height="463" alt="image" src="https://github.com/user-attachments/assets/cced200c-9ac2-484a-b754-f914823f3181" />
-
+<img width="569" height="336" alt="image" src="https://github.com/user-attachments/assets/019ed0da-49d4-462b-904b-6b4c2cca10a9" />
 
 ### 2. Sharpening Filters
 
 
 i) Using Laplacian Kernal
-
-<img width="335" height="461" alt="image" src="https://github.com/user-attachments/assets/9abe2a03-88a4-4c4e-9217-4dc543e0550b" />
-
+<img width="569" height="368" alt="image" src="https://github.com/user-attachments/assets/e5838560-4270-4bce-a051-f864a38eb9b3" />
 
 ii) Using Laplacian Operator
-
-<img width="305" height="463" alt="image" src="https://github.com/user-attachments/assets/bbc20d1d-a55b-4e85-aa09-4f1b09ae2d29" />
-
+<img width="569" height="361" alt="image" src="https://github.com/user-attachments/assets/43f21bff-e6a0-478e-8974-7bd2ad41bb2e" />
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
